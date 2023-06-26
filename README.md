@@ -1,7 +1,7 @@
-Le Blog de Léo
+Le Blog de Léa
 ==============
 
-Le Blog de Léo est une application qui sert de fil rouge et de projet final au cours "Concevez un site web avec le framework Symfony" disponible sur le site d'OpenClassrooms.
+Le Blog de Léa est une application qui sert de fil rouge et de projet final au cours "Concevez un site web avec le framework Symfony" disponible sur le site d'OpenClassrooms.
 
 Il est basé sur l'application de [démonstration de l'équipe Symfony](https://github.com/symfony/demo), qui est une référence pour expliquer aux débutantes et débutants comment développer leurs applications dans le respect des meilleures pratiques.
 
